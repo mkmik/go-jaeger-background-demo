@@ -1,3 +1,3 @@
 # background span
 
-![Background span](./jaeger.png)
+![Background span](./span.png)
