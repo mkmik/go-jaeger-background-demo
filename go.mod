@@ -1,4 +1,4 @@
-module github.com/mkmik/go-jaeger-demo
+module github.com:mkmik/go-jaeger-background-demo
 
 go 1.16
 
