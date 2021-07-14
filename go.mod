@@ -1,4 +1,4 @@
-module github.com/mkmik/go-jaeger-uint64-wtf
+module github.com/mkmik/go-jaeger-demo
 
 go 1.16
 
